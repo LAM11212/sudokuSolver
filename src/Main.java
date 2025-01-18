@@ -1,5 +1,6 @@
 import java.util.*;
             /*
+            LAM11212 on GITHUB
             This board can be filled with any sudoku you want, just change the numbers using 0's for blanks spaces
             I generated a random board from www.websudoku.com, enjoy!
             */
